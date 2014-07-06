@@ -1,0 +1,70 @@
+Oct 22, 2013 11:19:16 AM FetcherManager createLogger
+INFO: FetcherManager Log File
+Oct 22, 2013 11:19:16 AM FetcherManager FetcherManagerFunction
+INFO: While loop is started..
+Oct 22, 2013 11:19:16 AM FetcherManager FetcherManagerFunction
+INFO: Getting data from ProductLink Table ( in dynamo)
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: Getting data from ProductLink Table is finished ( in dynamo)
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: We got data(urls) = 1 whose status is notDone
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: Changing status from doing to done in ProductLink table...
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: Writing in /home/amit/Desktop/data/1.txt is started ...
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: Changing status from doing to done is finished
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: We have 2 free servers at this time
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: We are getting the list of Files currently available in data dir...
+Oct 22, 2013 11:19:18 AM FetcherManager FetcherManagerFunction
+INFO: We are getting the list of Files currently1 available in data dir is finished
+Oct 22, 2013 11:19:19 AM FetcherManager FetcherManagerFunction
+INFO: Process builder is called... for slave 23.22.67.129
+Oct 22, 2013 11:19:19 AM FetcherManager FetcherManagerFunction
+INFO: Updating status of slave :23.22.67.129 from free to busy
+Oct 22, 2013 11:19:19 AM FetcherManager FetcherManagerFunction
+INFO: Updating status of slave :23.22.67.129 from free to busy is done
+Oct 22, 2013 11:19:19 AM FetcherManager FetcherManagerFunction
+INFO: Now Wating is started for Updating the links
+Oct 22, 2013 11:19:19 AM FetcherManager FetcherManagerFunction
+INFO: Wait for worker thread to complete
+Oct 22, 2013 11:19:39 AM FetcherManager FetcherManagerFunction
+INFO: Now Wating is started for Updating the links is done...
+Oct 22, 2013 11:19:39 AM FetcherManager FetcherManagerFunction
+INFO: while loop is called again...
+Oct 22, 2013 11:19:39 AM FetcherManager FetcherManagerFunction
+INFO: Getting data from ProductLink Table ( in dynamo)
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: Getting data from ProductLink Table is finished ( in dynamo)
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: We got data(urls) = 1 whose status is notDone
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: Changing status from doing to done in ProductLink table...
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: Writing in /home/amit/Desktop/data/2.txt is started ...
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: Changing status from doing to done is finished
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: We have 1 free servers at this time
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: We are getting the list of Files currently available in data dir...
+Oct 22, 2013 11:19:40 AM FetcherManager FetcherManagerFunction
+INFO: We are getting the list of Files currently2 available in data dir is finished
+Oct 22, 2013 11:19:41 AM FetcherManager FetcherManagerFunction
+INFO: File at /home/amit/Desktop/data/1.txt is deleting...
+Oct 22, 2013 11:19:41 AM FetcherManager FetcherManagerFunction
+INFO: Process builder is called... for slave 54.205.165.43
+Oct 22, 2013 11:19:41 AM FetcherManager FetcherManagerFunction
+INFO: Updating status of slave :54.205.165.43 from free to busy
+Oct 22, 2013 11:19:41 AM FetcherManager FetcherManagerFunction
+INFO: Updating status of slave :54.205.165.43 from free to busy is done
+Oct 22, 2013 11:19:41 AM FetcherManager FetcherManagerFunction
+INFO: Now Wating is started for Updating the links
+Oct 22, 2013 11:19:41 AM FetcherManager FetcherManagerFunction
+INFO: Wait for worker thread to complete
+Oct 22, 2013 11:20:01 AM FetcherManager FetcherManagerFunction
+INFO: Now Wating is started for Updating the links is done...
+Oct 22, 2013 11:20:01 AM FetcherManager FetcherManagerFunction
+INFO: while loop is called again...
