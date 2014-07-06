@@ -1,0 +1,4 @@
+Oct 24, 2013 2:05:52 PM GroupingManager.GroupingMaster createLogger
+INFO: GroupingManager Log File
+Oct 24, 2013 2:05:52 PM GroupingManager.GroupingMaster StartGroupingManager
+INFO: Fetching data from Dynamodb.

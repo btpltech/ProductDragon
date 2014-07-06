@@ -1,0 +1,22 @@
+Instructions for Providing run time arguments
+
+For GroupingManager
+
+Jar Name : groupingManager.jar
+
+Arguments are :
+
+1. Hbase Master IP
+2. Limit of data to be fetched from dynamo db
+3. Limit to put data from buffered table to hbase parsed table
+
+For ProductClustering
+
+Jar Name : grouping.jar
+
+Arguments are :
+
+1. Hbase Master IP
+2. Solr IP
+3. Port where solr is running
+
